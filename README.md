@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abisheksatnur24
 - 👀 I’m interested in all things code. I am a sophomore doing CS at Virginia Tech trying to improve my coding skills!
-- 🌱 I’m currently learning UNIX, C, and Flask, Python, Java
+- 🌱 I’m currently learning UNIX, C, Flask, Python, Java
 - 💞️ I’m looking to collaborate on any project to which I can make any contribution to and better my coding skills. I have most experience building object oriented programming related applications in java and python. I have also built fullstack applications via use of HTML/CSS & Python scripts along with MySQL/SQLite databases. 
 - 📫 How to reach me - 
   * email - abishek24@vt.edu / abishekajai01@gmail.com
